@@ -1,0 +1,1 @@
+# Default-aws-resource
